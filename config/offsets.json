@@ -1,0 +1,9 @@
+{
+    "Patterns": {
+        "DoubleAttack": "8B 47 ?? 89 47 ?? 8B 47 ?? 89 47 ?? 8B 47 ?? 89 47 ?? 66 C7 47",
+        "SkillCooldown": "0F 11 41 20 C3 CC CC CC CC CC CC CC CC 40",
+        "InstantBurst": "0F 10 70 30 83 B9 E8 00 00 00 00 75 05 E8 89",
+        "AlwaysElementalSight": "80 7B 50 00 0F 57 FF",
+        "FrendlyMobs": "74 B9 48 8B 8B ?? 01 00 00 48 85 C9 74 ?? 48 8B 01 8B D7 4C 8B ?? ?? ?? ?? ?? 48 8b"
+    }
+}
